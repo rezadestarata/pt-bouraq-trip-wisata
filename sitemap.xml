@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <!-- Homepage -->
+    <url>
+        <loc>https://rezadestarata.github.io/pt-bouraq-trip-wisata/</loc>
+        <lastmod>2024-03-20T04:28:14+00:00</lastmod>
+        <priority>1.0</priority>
+        <changefreq>daily</changefreq>
+    </url>
+
+    <!-- Main Sections -->
+    <url>
+        <loc>https://rezadestarata.github.io/pt-bouraq-trip-wisata/#about</loc>
+        <lastmod>2024-03-20T04:28:14+00:00</lastmod>
+        <priority>0.9</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+
+    <url>
+        <loc>https://rezadestarata.github.io/pt-bouraq-trip-wisata/#services</loc>
+        <lastmod>2024-03-20T04:28:14+00:00</lastmod>
+        <priority>0.9</priority>
+        <changefreq>weekly</changefreq>
+        <image:image>
+            <image:loc>https://rezadestarata.github.io/pt-bouraq-trip-wisata/images/service1.jpg</image:loc>
+            <image:title>Layanan Penumpang</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://rezadestarata.github.io/pt-bouraq-trip-wisata/images/service2.jpg</image:loc>
+            <image:title>Layanan Umroh</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://rezadestarata.github.io/pt-bouraq-trip-wisata/images/service3.jpg</image:loc>
+            <image:title>Layanan Haji</image:title>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://rezadestarata.github.io/pt-bouraq-trip-wisata/#gallery</loc>
+        <lastmod>2024-03-20T04:28:14+00:00</lastmod>
+        <priority>0.8</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+
+    <url>
+        <loc>https://rezadestarata.github.io/pt-bouraq-trip-wisata/#testimonials</loc>
+        <lastmod>2024-03-20T04:28:14+00:00</lastmod>
+        <priority>0.8</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+        <loc>https://rezadestarata.github.io/pt-bouraq-trip-wisata/#contact</loc>
+        <lastmod>2024-03-20T04:28:14+00:00</lastmod>
+        <priority>0.9</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+
+    <!-- Social Media Links -->
+    <url>
+        <loc>https://www.instagram.com/bouraqhandlingairport.official/</loc>
+        <lastmod>2024-03-20T04:28:14+00:00</lastmod>
+        <priority>0.7</priority>
+        <changefreq>daily</changefreq>
+    </url>
+
+    <url>
+        <loc>https://www.facebook.com/profile.php?id=100089814577657</loc>
+        <lastmod>2024-03-20T04:28:14+00:00</lastmod>
+        <priority>0.7</priority>
+        <changefreq>daily</changefreq>
+    </url>
+
+    <url>
+        <loc>https://wa.me/6282123128496</loc>
+        <lastmod>2024-03-20T04:28:14+00:00</lastmod>
+        <priority>0.9</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+</urlset>
